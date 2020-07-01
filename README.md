@@ -1,6 +1,6 @@
 # Тестовое задание для RADIX.
 
-
+Выполнено с использованием библиотеки React Js, также дополнительных модулей. Реализован вывод данных на экран, добавление, удаление и поиск.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
