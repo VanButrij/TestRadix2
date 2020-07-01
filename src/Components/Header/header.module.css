@@ -1,0 +1,30 @@
+#wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+
+#form {
+    display: flex;
+    flex-direction: row;
+}
+
+#addbut {
+
+}
+
+.forma {
+    min-width: 100vw;
+}
+
+.addLink {
+    text-decoration: none;
+    width: 10vh;
+}
+
+#search {
+    display: flex;
+    flex-direction: row;
+}
